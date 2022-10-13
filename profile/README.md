@@ -1,4 +1,4 @@
-**joblist.today** is a curated list of projects and companies hirring around the world 🌍, and an open system to present, enrich and search data.
+**joblist.today** is a [curated list of projects and companies hirring around the world](https://github.com/joblisttoday/data) 🌍, and an open system to present, enrich and search data.
 
 - add a **new company**, with a github account, through an [issue](https://github.com/joblisttoday/data/issues/new/choose) or with the [cms](https://edit.joblist.today)
 - search available jobs on https://joblist.today
