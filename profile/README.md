@@ -5,6 +5,7 @@
 - explore all companies https://profiles.joblist.today
 - discover available job board providers https://providers.joblist.today
 - try the job list api https://api.joblist.today
+- community chat [#joblist.today:matrix.org](https://matrix.to/#/%23joblist.today%3Amatrix.org)
 
 It is all libre software and crowdsourced open data, feel free to comment and contribute.
 
