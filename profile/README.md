@@ -11,3 +11,7 @@
 It is all libre software and crowdsourced open data, feel free to comment and contribute.
 
 The objectives are to offer a transparent resource for job-seekers and company cultures.
+
+# Data flow
+
+> (open) edit [data](https://github.com/joblisttoday/data) in git(hub) > (gitlab) [workers](https://gitlab.com/joblist/workers) generate [joblist.db](https://joblist.gitlab.io/workers/joblist.db) sqlite3 database > [components](https://gitlab.com/joblist/components) and clients consume the database in read only.
