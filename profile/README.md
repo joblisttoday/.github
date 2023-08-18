@@ -14,4 +14,4 @@ The objectives are to offer a transparent resource for job-seekers and company c
 
 # Data flow
 
-> (open) edit [data](https://github.com/joblisttoday/data) in git(hub) > (gitlab) [workers](https://gitlab.com/joblist/workers) generate [joblist.db](https://joblist.gitlab.io/workers/joblist.db) sqlite3 database > [components](https://gitlab.com/joblist/components) and clients consume the database in read only.
+> (open) edit [data](https://github.com/joblisttoday/data) in git(hub) → (gitlab) [workers](https://gitlab.com/joblist/workers) generate [joblist.db](https://joblist.gitlab.io/workers/joblist.db) sqlite3 database → [components](https://gitlab.com/joblist/components), other clients and [apis](https://gitlab.com/joblist/api-wrangler) consume the database (read).
